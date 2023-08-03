@@ -75,36 +75,3 @@ public class BasketTest {
 		assertEquals(b.Total_Price, 25);
 	}
 }
-
-class Product
-{
-	int price = 0;
-}
-
-class Coupon
-{
-	int amount = 0;
-}
-class Basket
-{
-	Basket basketList[];
-	float Total_Price = 0;
-	Product ItemsList[];
-	void addProduct(Product p)
-	{
-		return;
-		
-	}
-	void removeProduct(int index)
-	{
-		return;
-	}
-	void createCustom()
-	{
-		return;
-	}
-	void applyCoupon(Coupon c)
-	{
-		return;
-	}
-}
