@@ -119,24 +119,3 @@ public class AdminTest {
 		
 	}
 }
-
-class Admin
-{
-	void addSuggest(int id1, int id2)
-	{
-		return;
-	}
-	
-	float checkFrequency(int id1, int id2)
-	{
-		return 1f;
-	}
-	void createPair(Product p1, Product p2)
-	{
-		return;
-	}
-	void showAllPairs(Product p)
-	{
-		return;
-	}
-}
